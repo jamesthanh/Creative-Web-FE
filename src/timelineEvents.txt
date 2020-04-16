@@ -1,0 +1,32 @@
+data: {"from": "Sneak Preak", "msg": "The 4th long waited Lord of the Ring ", "genre": "Fantasy,Action,Adeventure"},
+
+data: {"from": "Block Buster", "msg": "Avengers: Endgame", "genre": "Action, Fantasy, Comedy"},
+
+data: {"from": "TV series, "msg": "The Big Bang Theory", "genre": "Comedy"},
+
+data: {"from": "TV series", "msg": "Friends", "genre": "Comedy"},
+
+data: {"from": "TV series", "msg": "The Office", "genre": "Comedy"},
+
+data: {"from": "Weekly Recommend", "msg": "No Game No Life: Zero, "genre": "Action, Fantasy, Tragedy"},
+
+data: {"from": "Weekly Recommend"", "msg": "Another", "genre": "Horror, Fantasy, Tragedy"},
+
+data: {"from": "Block Buster", "msg": "Sherlock", "genre": "Action, Fantasy, Detactive"},
+
+data: {"from": "Block Buster", "msg": "Koe no Katachi", "genre": "School Life, Fantasy, Comedy"},
+
+data: {"from": "Block Buster", "msg": "5 centimeters per second", "genre": "Drama, Romance"}
+
+event: direct
+data: {"from": "Original Series", "msg": "2nd season of West World", "genre": "Drama, Action, Adventure"}
+
+data: {"from": "Block Buster", "msg": "Toy Store 4", "genre": "Family Friendly, Comedy"}
+
+event: checkin
+data: {"from": "Upcoming Members Meeting", "place": "StarBucks Vivo", "genre": "Community Event"}
+
+data: {"from": "CGV free ticket cafe", "msg": "Participate and earn awesome gifts", "genre": "Community Event"}
+
+event: forward
+data: {"from": "Sutori", "through": "LotteCinema", "msg": "Be the first 500 to get a free gongcha voucher http://goo.gl/Lyb", "genre": "Collaboration"}
